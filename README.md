@@ -1,4 +1,4 @@
-# GoComet British Auction RFQ
+# British Auction RFQ
 
 Production-oriented reference implementation for the eliminatory-round assignment.
 
