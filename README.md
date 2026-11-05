@@ -101,4 +101,4 @@ erDiagram
 - `GET /api/v1/auctions/{auction_id}`
 - `POST /api/v1/auctions/{auction_id}/bids`
 
-OpenAPI is available at `http://localhost:8000/docs`.
+OpenAPI is available at `http://localhost:8000/docs` or `http://127.0.0.1:8000/docs`.
